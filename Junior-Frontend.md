@@ -86,4 +86,3 @@ message shall be displayed next to the invalid field. ![third](https://cloud.git
 1. **firstName** - should contain only small and capital letters, no numbers, special characters, etc.
 1. **lastName** - same as the **firstName**
 1. **email** - must be a valid email address
-1. **bankAccounts** - must be at least one account
